@@ -1,0 +1,67 @@
+.maindiv{
+  /* border:1px solid red; */
+  margin: auto;
+  margin-top: 150px;
+  width: 70%;
+}
+.maindiv button{
+  margin-left: 74.4%;
+  padding: 10px;
+  background-color: rgb(119, 123, 67);
+}
+
+table,th,td{
+  border: 1px solid black;
+}
+table{
+  margin-left: 130px;
+}
+th{
+  background-color: rgb(87, 15, 153);
+  padding: 10px;
+}
+
+.detailsCard{
+  border: 1px solid black;
+  width:40%;
+  margin: auto;
+  margin-top: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 25px;
+}
+.detailsCard h6{
+  margin: -2px;
+  margin-left: 10px;
+}
+.det{
+  margin: auto;
+  margin-left: 45%;
+  margin-top: 20px;
+  color: cornflowerblue;
+  font-weight: 500;
+}
+
+.filter{
+  /* border:1px solid black; */
+  margin: auto;
+  margin-top: 10px;
+  width: 50%;
+  display: grid;
+  grid-template-columns: 60% 30%;
+  gap:10px
+}
+
+
+.f2{
+  /* border: 1px solid orange; */
+  display: grid;
+  grid-template-columns: 40% 40%;
+  gap: 10px;
+  
+}
+.f2 button{
+  padding: 10px;
+  height: 45px;
+  width: 70px;
+  
+}
