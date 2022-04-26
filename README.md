@@ -46,14 +46,11 @@ Implemented all the above said functionalities using Databases, and enhanced dyn
 ## Team Members
 <ul>
   <li>Tarun Kumar Bhardwaj</li>
-  <li>Dheeraj Gaur</li>
-  <li>Ankit Kumar</li>
   <li>Rahul Hooda</li>
-  <li>Laxman Mallick</li>
+   <li>Ankit Kumar</li>
+  
 </ul>
 
-## Related Links
-BlogLink: https://prachisinghsherawat.hashnode.dev/creating-a-clone-of-monsterindiacom
 
 ## Demo
 Deployed Link: https://monster-india-clone.vercel.app/

@@ -1,0 +1,182 @@
+.parent {
+  width: 30%;
+  height: 700px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  overflow-x: hidden;
+  padding: 2px;
+}
+.parentChild {
+  width: 92%;
+  height: 99%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+.logManully {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+.mar {
+  margin-top: -13px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+}
+.btn_login {
+  height: 40px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  padding-left: 50px;
+  outline: black;
+}
+.fa-envelope {
+  margin-top: -35px;
+  margin-left: 10px;
+  color: rgb(110, 110, 110);
+  font-size: 25px;
+  width: 20px;
+}
+.fa-lock {
+  margin-top: -35px;
+  margin-left: 10px;
+  color: rgb(110, 110, 110);
+  font-size: 25px;
+  width: 20px;
+}
+.forget {
+  text-align: right;
+  color: rgb(43, 43, 201);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+}
+.button_login {
+  height: 50px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+  background-color: rgb(68, 68, 248);
+  border: rgb(68, 68, 248);
+  color: white;
+}
+
+
+#ShoweError {
+  text-align: center;
+  color: red;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+}
+.hr {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+hr {
+  width: 45%;
+  height: 5px;
+}
+.logSocial {
+  width: 100%;
+  margin-top: -25px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 22px;
+}
+.button_login2 {
+  width: 100%;
+  height: 50px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+  /* background-color: rgb(68, 68, 248);
+    border:rgb(68, 68, 248) ; */
+  color: black;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border: 1px solid rgb(172, 172, 172);
+}
+.RegisterLog {
+  width: 100%;
+  margin-top: -25px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border: 1px solid rgb(172, 172, 172);
+}
+.p2 {
+  font-size: medium;
+  font-weight: 500;
+}
+.button_login3 {
+  width: 97%;
+  height: 50px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+  background-color: rgb(68, 68, 248);
+  border: rgb(68, 68, 248);
+  color: white;
+  /* box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border: 1px solid rgb(172, 172, 172); */
+}
+.downloadApp {
+  width: 100%;
+  margin-top: -25px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border: 1px solid rgb(172, 172, 172);
+  font-weight: 500;
+}
+.button_login4 {
+  width: 46%;
+  height: 50px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+  font-weight: 700;
+  background-color: black;
+  border: black;
+  color: white;
+  margin-right: 10px;
+  border: 1px solid rgb(172, 172, 172);
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border-radius: 10px;
+  font-size: 19px;
+
+}
+.button_login5 {
+  width: 46%;
+  height: 50px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+  font-weight: 700;
+  background-color: black;
+  border: black;
+  color: white;
+  margin-right: 10px;
+  border: 1px solid rgb(172, 172, 172);
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border-radius: 10px;
+  font-size: 19px;
+}
+.fa-google-play{
+  margin-top: -82px;
+  margin-left: -360px;
+  color: rgb(33, 245, 234);
+}
+.fa-apple{
+  margin-top: -38px;
+  margin-left: 60px;
+  color: white;
+}

@@ -1,0 +1,65 @@
+{
+    "users": [
+      {
+        "name": "dfsf",
+        "password": "1234",
+        "food": "true",
+        "movie": "true",
+        "drama": "true",
+        "image": "sdfasdfsadfsdfsd",
+        "id": 1
+      }
+    ],
+    "meetups": [
+      {
+        "title": "sdfgsfd",
+        "location": "kolkata",
+        "data": "df",
+        "time": "dsfg",
+        "theme": "movies",
+        "description": "sdfasdfsadfsdfsdf",
+        "image": "sdfasdfsadfsdfsd",
+        "id": 1
+      },
+      {
+        "title": "sdfgsfd",
+        "location": "kolkata",
+        "data": "df",
+        "time": "dsfg",
+        "theme": "movies",
+        "description": "sdfasdfsadfsdfsdf",
+        "image": "sdfasdfsadfsdfsd",
+        "id": 1
+      },
+      {
+        "title": "sdfgsfd",
+        "location": "kolkata",
+        "data": "df",
+        "time": "dsfg",
+        "theme": "movies",
+        "description": "sdfasdfsadfsdfsdf",
+        "image": "sdfasdfsadfsdfsd",
+        "id": 1
+      },
+      {
+        "title": "sdfgsfd",
+        "location": "kolkata",
+        "data": "df",
+        "time": "dsfg",
+        "theme": "movies",
+        "description": "sdfasdfsadfsdfsdf",
+        "image": "sdfasdfsadfsdfsd",
+        "id": 1
+      },
+      {
+        "location": "bangalore",
+        "time": "dsfg",
+        "theme": "culture",
+        "image": "sdfasdfsadfsdfsd",
+        "title": "Second Title",
+        "data": "df",
+        "description": "dfsasdfnjnfdgjnasdhuiahswuidfbadfjansdfjnasdfjk",
+        "id": 2
+      }
+    ]
+  }
